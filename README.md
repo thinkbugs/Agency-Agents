@@ -23,7 +23,7 @@
 
 一套**开箱即用的 AI 角色库**。每个智能体都有明确的身份定义、关键规则、工作流程和交付物，安装到你的 AI 编程工具后用自然语言激活。
 
-**和普通提示词的区别**：普通提示词告诉 AI "你是一个专家"；这里的智能体定义了专家**怎么思考、怎么做事、交付什么**。例如[安全工程师](engineering/engineering-security-engineer.md)会按 OWASP Top 10 逐项审查代码，[小红书运营](marketing/marketing-xiaohongshu-operator.md)会输出完整的种草笔记策略和达人合作方案。
+**和普通提示词的区别**：普通提示词告诉 AI "你是一个专家"；这里的智能体定义了专家**怎么思考、怎么做事、交付什么**。例如[安全工程师](engineering/engineering-security-engineer.md)会按 OWASP Top 10 逐项审查代码，[小红书运营专家](marketing/marketing-xiaohongshu-operator.md)会输出完整的种草笔记策略和达人合作方案。
 
 ### 🤝 多智能体协作
 
@@ -111,7 +111,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [前端开发者](engineering/engineering-frontend-developer.md) | React/Vue、UI 实现、性能优化 | 现代 Web 应用、像素级 UI |
 | [后端架构师](engineering/engineering-backend-architect.md) | API 设计、数据库架构、可扩展性 | 服务端系统、微服务 |
 | [AI 工程师](engineering/engineering-ai-engineer.md) | 机器学习、模型部署、AI 集成 | ML 功能、数据管线 |
-| [DevOps 自动化](engineering/engineering-devops-automator.md) | CI/CD、基础设施自动化 | 流水线开发、部署自动化 |
+| [DevOps 自动化师](engineering/engineering-devops-automator.md) | CI/CD、基础设施自动化 | 流水线开发、部署自动化 |
 | [安全工程师](engineering/engineering-security-engineer.md) | 威胁建模、代码审计、安全架构 | 应用安全、漏洞评估 |
 | [快速原型师](engineering/engineering-rapid-prototyper.md) | 快速 POC、MVP 开发 | 概念验证、黑客马拉松 |
 | [高级开发者](engineering/engineering-senior-developer.md) | Laravel/Livewire/FluxUI、高端 CSS、Three.js | 高品质 Web 体验 |
@@ -131,10 +131,13 @@ cp -r marketing/*.md ~/.claude/agents/
 | [数据库优化师](engineering/engineering-database-optimizer.md) | Schema 设计、查询优化、索引策略 | 数据库性能调优 |
 | [Git 工作流大师](engineering/engineering-git-workflow-master.md) | 分支策略、约定式提交、变基 | Git 工作流规范 |
 | [软件架构师](engineering/engineering-software-architect.md) | 系统设计、DDD、架构决策 | 系统架构设计 |
-| [SRE](engineering/engineering-sre.md) | SLO、可观测性、混沌工程 | 站点可靠性工程 |
+| [SRE (站点可靠性工程师)](engineering/engineering-sre.md) | SLO、可观测性、混沌工程 | 站点可靠性工程 |
 | [AI 数据修复工程师](engineering/engineering-ai-data-remediation-engineer.md) | 自愈管道、SLM 语义聚类、零数据丢失 | 大规模数据异常修复 |
 | [飞书集成开发工程师](engineering/engineering-feishu-integration-developer.md) ⭐ | 飞书机器人、审批流、多维表格 | 飞书生态集成开发 |
 | [钉钉集成开发工程师](engineering/engineering-dingtalk-integration-developer.md) ⭐ | 钉钉机器人、酷应用、连接器 | 钉钉生态集成开发 |
+| [CMS 开发者](engineering/engineering-cms-developer.md) | Drupal/WordPress、主题开发、自定义插件 | CMS 站点开发与内容架构 |
+| [邮件智能工程师](engineering/engineering-email-intelligence-engineer.md) | 邮件解析、结构化提取、AI 推理数据 | 智能体邮件集成 |
+| [Filament 优化专家](engineering/engineering-filament-optimization-specialist.md) | Filament PHP 后台重构、高影响力改造 | PHP 后台管理优化 |
 
 ### 🎨 设计部
 
@@ -159,12 +162,12 @@ cp -r marketing/*.md ~/.claude/agents/
 
 | 智能体 | 专长 | 适用场景 |
 |--------|------|----------|
-| [小红书运营](marketing/marketing-xiaohongshu-operator.md) ⭐ | 种草笔记、达人合作、爆款内容 | 小红书获客、品牌种草 |
+| [小红书运营专家](marketing/marketing-xiaohongshu-operator.md) ⭐ | 种草笔记、达人合作、爆款内容 | 小红书获客、品牌种草 |
 | [抖音策略师](marketing/marketing-douyin-strategist.md) ⭐ | 短视频策划、算法优化、直播带货 | 抖音增长、短视频营销 |
 | [微信公众号运营](marketing/marketing-wechat-operator.md) ⭐ | 公众号内容、社群运营、裂变增长 | 微信生态营销 |
 | [B站内容策略师](marketing/marketing-bilibili-strategist.md) ⭐ | UP主运营、弹幕文化、中长视频 | B站内容增长、品牌合作 |
 | [快手策略师](marketing/marketing-kuaishou-strategist.md) ⭐ | 下沉市场、老铁文化、直播电商 | 快手运营、社区信任 |
-| [中国电商运营师](marketing/marketing-china-ecommerce-operator.md) | 淘宝/拼多多/京东、广告投放、大促作战 | 电商全链路深度运营 |
+| [中国电商运营专家](marketing/marketing-china-ecommerce-operator.md) | 淘宝/拼多多/京东、广告投放、大促作战 | 电商全链路深度运营 |
 | [电商运营师](marketing/marketing-ecommerce-operator.md) ⭐ | 淘宝/拼多多/京东、直播带货、大促 | 电商全平台运营（简洁版） |
 | [百度 SEO 专家](marketing/marketing-baidu-seo-specialist.md) ⭐ | 百度优化、百科/知道/贴吧生态 | 百度搜索营销 |
 | [私域流量运营师](marketing/marketing-private-domain-operator.md) ⭐ | 企微SCRM、社群运营、用户生命周期 | 私域体系搭建、复购增长 |
@@ -178,6 +181,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [小红书专家](marketing/marketing-xiaohongshu-specialist.md) | 生活方式内容、趋势策略 | 小红书品牌建设 |
 | [微信公众号管理](marketing/marketing-wechat-official-account.md) | 订阅者运营、内容营销 | 微信公众号增长 |
 | [知乎策略师](marketing/marketing-zhihu-strategist.md) | 知识型内容、思想领袖建设 | 知乎品牌权威 |
+| [中国市场本地化策略师](marketing/marketing-china-market-localization-strategist.md) ⭐ | 抖音/小红书/微信/B站全栈本地化 | 中国市场进入策略 |
 
 > ⭐ 标记的是本项目原创，更贴合国内实操。其余为上游英文版翻译。
 
@@ -190,6 +194,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [Instagram 策展师](marketing/marketing-instagram-curator.md) | 视觉叙事、社区运营 | 出海视觉营销 |
 | [Reddit 社区运营](marketing/marketing-reddit-community-builder.md) | 社区文化、真实互动 | 出海社区营销 |
 | [应用商店优化师](marketing/marketing-app-store-optimizer.md) | ASO、转化优化 | App 出海推广 |
+| [视频优化专家](marketing/marketing-video-optimization-specialist.md) | YouTube 算法、观众留存、跨平台分发 | 视频营销与 SEO |
 
 **通用：**
 
@@ -202,6 +207,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [轮播图增长引擎](marketing/marketing-carousel-growth-engine.md) | 轮播图内容、自动化投放 | 社交媒体轮播素材 |
 | [LinkedIn 内容创作专家](marketing/marketing-linkedin-content-creator.md) | LinkedIn 职场内容、B2B 获客 | LinkedIn 品牌建设 |
 | [图书联合作者](marketing/marketing-book-co-author.md) | 思想领袖力图书、代笔协作 | 图书策划与撰写 |
+| [AI 引文策略师](marketing/marketing-ai-citation-strategist.md) | AEO/GEO 优化、AI 平台可见性审计 | AI 搜索引擎品牌可见性 |
 
 ### 💰 付费媒体部
 
@@ -361,6 +367,11 @@ cp -r marketing/*.md ~/.claude/agents/
 | [AI 治理政策专家](specialized/specialized-ai-policy-writer.md) ⭐ | 算法备案、生成式AI管理、伦理审查 | AI 合规与治理框架 |
 | [企业风险评估师](specialized/specialized-risk-assessor.md) ⭐ | COSO本土化、国企风控、ESG | 企业风险管理与审计 |
 | [会议效率专家](specialized/specialized-meeting-assistant.md) ⭐ | 飞书/钉钉/腾讯会议、OKR周会 | 会议管理与纪要输出 |
+| [土木工程师](specialized/specialized-civil-engineer.md) | Eurocode/DIN/ACI/GB 多标准结构分析 | 土木与结构工程设计 |
+| [法国咨询市场专家](specialized/specialized-french-consulting-market.md) | ESN/SI 生态、Malt 平台、薪资代管 | 法国自由职业市场导航 |
+| [韩国商务专家](specialized/specialized-korean-business-navigator.md) | 품의流程、KakaoTalk 礼仪、层级关系 | 韩国商务文化导航 |
+| [招聘专家](specialized/recruitment-specialist.md) ⭐ | 国内招聘平台、人才评估、劳动法合规 | 招聘运营与雇主品牌 |
+| [技术翻译专家](specialized/technical-translator-agent.md) | 中英文双向翻译、编程/AI/云计算术语 | 技术文档翻译 |
 
 ### 🥽 空间计算部
 
@@ -779,7 +790,7 @@ DEERFLOW_SKILLS_DIR=/path/to/deerflow/skills/custom ./scripts/install.sh --tool 
 ### 场景二：[小红书品牌推广](examples/workflow-xiaohongshu-launch.md)（完整流程）
 
 **你的团队**：
-1. **小红书运营** — 种草内容策略和达人合作
+1. **小红书运营专家** — 种草内容策略和达人合作
 2. **内容创作者** — 产出种草笔记
 3. **品牌守护者** — 品牌调性把关
 4. **数据分析师** — 追踪投放数据、出复盘报告

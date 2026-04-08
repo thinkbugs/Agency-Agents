@@ -30,7 +30,7 @@
 | 视觉叙事师 | `design/design-visual-storyteller.md` |
 | 趣味注入师 | `design/design-whimsy-injector.md` |
 
-## 🛠️ 工程部 (27)
+## 🛠️ 工程部 (30)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -38,12 +38,15 @@
 | AI 工程师 | `engineering/engineering-ai-engineer.md` |
 | 自主优化架构师 | `engineering/engineering-autonomous-optimization-architect.md` |
 | 后端架构师 | `engineering/engineering-backend-architect.md` |
+| CMS 开发者 | `engineering/engineering-cms-developer.md` |
 | 代码审查员 | `engineering/engineering-code-reviewer.md` |
 | 数据工程师 | `engineering/engineering-data-engineer.md` |
+| 邮件智能工程师 | `engineering/engineering-email-intelligence-engineer.md` |
 | 数据库优化师 | `engineering/engineering-database-optimizer.md` |
 | DevOps 自动化师 | `engineering/engineering-devops-automator.md` |
 | 钉钉集成开发工程师 | `engineering/engineering-dingtalk-integration-developer.md` |
 | 嵌入式固件工程师 | `engineering/engineering-embedded-firmware-engineer.md` |
+| Filament 优化专家 | `engineering/engineering-filament-optimization-specialist.md` |
 | 嵌入式 Linux 驱动工程师 | `engineering/engineering-embedded-linux-driver-engineer.md` |
 | 飞书集成开发工程师 | `engineering/engineering-feishu-integration-developer.md` |
 | FPGA/ASIC 数字设计工程师 | `engineering/engineering-fpga-digital-design-engineer.md` |
@@ -109,17 +112,17 @@
 | 合同审查专家 | `legal/legal-contract-reviewer.md` |
 | 制度文件撰写专家 | `legal/legal-policy-writer.md` |
 
-## 📢 营销部 (33)
+## 📢 营销部 (34)
 
 | 中文名 | 文件路径 |
 |--------|----------|
 | AI 引文策略师 | `marketing/marketing-ai-citation-strategist.md` |
 | 应用商店优化师 | `marketing/marketing-app-store-optimizer.md` |
 | 百度 SEO 专家 | `marketing/marketing-baidu-seo-specialist.md` |
-| B站内容策略师 | `marketing/marketing-bilibili-content-strategist.md` |
-| B站策略师 | `marketing/marketing-bilibili-strategist.md` |
+| B站内容策略师 | `marketing/marketing-bilibili-strategist.md` |
 | 图书联合作者 | `marketing/marketing-book-co-author.md` |
 | 轮播图增长引擎 | `marketing/marketing-carousel-growth-engine.md` |
+| 中国市场本地化策略师 | `marketing/marketing-china-market-localization-strategist.md` |
 | 中国电商运营专家 | `marketing/marketing-china-ecommerce-operator.md` |
 | 内容创作者 | `marketing/marketing-content-creator.md` |
 | 跨境电商运营专家 | `marketing/marketing-cross-border-ecommerce.md` |
@@ -134,10 +137,11 @@
 | 播客内容策略师 | `marketing/marketing-podcast-strategist.md` |
 | 私域流量运营师 | `marketing/marketing-private-domain-operator.md` |
 | Reddit 社区运营 | `marketing/marketing-reddit-community-builder.md` |
-| SEO 专家 | `marketing/marketing-seo-specialist.md` |
+| SEO专家 | `marketing/marketing-seo-specialist.md` |
 | 短视频剪辑指导师 | `marketing/marketing-short-video-editing-coach.md` |
 | 社交媒体策略师 | `marketing/marketing-social-media-strategist.md` |
 | TikTok 策略师 | `marketing/marketing-tiktok-strategist.md` |
+| 视频优化专家 | `marketing/marketing-video-optimization-specialist.md` |
 | Twitter 互动官 | `marketing/marketing-twitter-engager.md` |
 | 微信公众号管理 | `marketing/marketing-wechat-official-account.md` |
 | 微信公众号运营 | `marketing/marketing-wechat-operator.md` |
@@ -174,7 +178,7 @@
 | 中文名 | 文件路径 |
 |--------|----------|
 | 实验追踪员 | `project-management/project-management-experiment-tracker.md` |
-| Jira 工作流管家 | `project-management/project-management-jira-workflow-steward.md` |
+| Jira工作流管家 | `project-management/project-management-jira-workflow-steward.md` |
 | 项目牧羊人 | `project-management/project-management-project-shepherd.md` |
 | 工作室运营 | `project-management/project-management-studio-operations.md` |
 | 工作室制片人 | `project-management/project-management-studio-producer.md` |
@@ -204,7 +208,7 @@
 | XR 沉浸式开发者 | `spatial-computing/xr-immersive-developer.md` |
 | XR 界面架构师 | `spatial-computing/xr-interface-architect.md` |
 
-## 🔬 专项部 (33)
+## 🔬 专项部 (34)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -214,6 +218,7 @@
 | 自动化治理架构师 | `specialized/automation-governance-architect.md` |
 | 区块链安全审计师 | `specialized/blockchain-security-auditor.md` |
 | 合规审计师 | `specialized/compliance-auditor.md` |
+| 土木工程师 | `specialized/specialized-civil-engineer.md` |
 | 企业培训课程设计师 | `specialized/corporate-training-designer.md` |
 | 数据整合师 | `specialized/data-consolidation-agent.md` |
 | 高考志愿填报顾问 | `specialized/gaokao-college-advisor.md` |
@@ -239,6 +244,7 @@
 | Salesforce 架构师 | `specialized/specialized-salesforce-architect.md` |
 | 工作流架构师 | `specialized/specialized-workflow-architect.md` |
 | 留学规划顾问 | `specialized/study-abroad-advisor.md` |
+| 技术翻译专家 | `specialized/technical-translator-agent.md` |
 | ZK 管家 | `specialized/zk-steward.md` |
 
 ## 🚚 供应链部 (3)
